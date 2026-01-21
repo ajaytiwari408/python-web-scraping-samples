@@ -1,2 +1,14 @@
-# python-web-scraping-samples
-books_pagination_scraper.ipynb books_multi_page.csv  directory_scraper.ipynb directory_output.csv  job_listings_scraper.ipynb jobs_output.csv
+# Python Web Scraping Samples
+
+This repository contains Python web scraping examples using:
+- requests
+- BeautifulSoup
+- CSV output
+
+## Projects
+
+1. Books scraper with pagination and CSV export
+2. Directory scraper extracting names and links
+3. Job listings scraper extracting title, company, and link
+
+These examples demonstrate real-world scraping fundamentals.
